@@ -4,9 +4,7 @@ public:
         sort(g.begin(), g.end());
         sort(s.begin(), s.end());
 
-        int i = 0;  // child pointer
-        int j = 0;  // cookie pointer
-        int count = 0;
+        int i = 0, j = 0, count = 0;
 
         while (i < g.size() && j < s.size()) {
             if (s[j] >= g[i]) {
@@ -14,7 +12,7 @@ public:
                 i++;
                 j++;
             } else {
-                j++; // try bigger cookie
+                j++;
             }
         }
         return count;
