@@ -35,7 +35,14 @@ public:
         if (idx == string::npos)
             return word;
 
-        reverse(word.begin(), word.begin() + idx + 1);
+        // reverse(word.begin(), word.begin() + idx + 1);
+        int s = 0, e = idx;
+        while (s < e) {
+            swap(word[s], word[e]);
+            s++;
+            e--;
+}
+
         return word;
     }
 };
