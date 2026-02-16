@@ -6,7 +6,7 @@ public:
         for(int i=0;i<n;i++){
             s.insert(nums[i]);
         }
-        for(int i=1;i<=n+1;i++){
+        for(int i=1;true;i++){
             if(!s.count(i)) return i;
         }
         return -1;
