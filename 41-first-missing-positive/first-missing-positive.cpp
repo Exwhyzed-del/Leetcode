@@ -1,24 +1,14 @@
 class Solution {
 public:
     int firstMissingPositive(vector<int>& nums) {
-
-        unordered_map<int,int> mp;
-
-        // Store only positive numbers
-        for(int val : nums){
-            if(val > 0){
-                mp[val]++;
-            }
+        int n=nums.size();
+        unordered_set<int>s;
+        for(int i=0;i<n;i++){
+            s.insert(nums[i]);
         }
-
-        // Check from 1 to n
-        for(int i = 1; i <= nums.size(); i++){
-            if(mp.find(i) == mp.end()){
-                return i;
-            }
+        for(int i=1;i<=n+1;i++){
+            if(!s.count(i)) return i;
         }
-
-        // If all 1..n exist
-        return nums.size() + 1;
+        return -1;
     }
 };
