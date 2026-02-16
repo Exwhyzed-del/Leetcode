@@ -1,31 +1,20 @@
 class Solution {
 public:
     vector<int> findDisappearedNumbers(vector<int>& nums) {
-        sort(nums.begin(), nums.end());
-        
-        vector<int> result;
-        int expected = 1;
         int n = nums.size();
-        
+        vector<int> freq(n + 1, 0);
+        vector<int> res;
+
         for(int i = 0; i < n; i++) {
-            // Add all missing numbers before nums[i]
-            while(expected < nums[i]) {
-                result.push_back(expected);
-                expected++;
-            }
-            
-            // Move expected forward
-            if(expected == nums[i]) {
-                expected++;
+            freq[nums[i]]++;
+        }
+
+        for(int i = 1; i <= n; i++) {
+            if(freq[i] == 0) {
+                res.push_back(i);
             }
         }
-        
-        // Add remaining missing numbers after last element
-        while(expected <= n) {
-            result.push_back(expected);
-            expected++;
-        }
-        
-        return result;
+
+        return res;
     }
 };
