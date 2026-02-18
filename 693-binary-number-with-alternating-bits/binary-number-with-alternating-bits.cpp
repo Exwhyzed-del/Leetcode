@@ -1,7 +1,14 @@
 class Solution {
 public:
     bool hasAlternatingBits(int n) {
-        unsigned int x = n ^ (n >> 1);
-        return (x & (x + 1)) == 0;
+        int prev = n&1;
+        n>>=1;
+        while(n>0){
+            int cur = n&1;
+            if(prev==cur){return false;}
+            prev = cur;
+            n>>=1;
+        }
+        return true;
     }
 };
