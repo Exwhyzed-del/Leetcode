@@ -1,17 +1,34 @@
 class Solution {
 public:
     bool hasIncreasingSubarrays(vector<int>& nums, int k) {
-        int prev_increase = 0, cur_increase = 1;
-        int longest_k = 0;
-        for (int i = 1; i < nums.size(); ++i) {
-            if (nums[i] > nums[i - 1]) {
-                cur_increase += 1;
-            } else {
-                prev_increase = cur_increase;
-                cur_increase = 1;
+        int n = nums.size();
+
+        for(int a = 0; a <= n - 2*k; a++) {
+
+            bool first = true;
+            bool second = true;
+
+            // check first subarray
+            for(int i = a; i < a + k - 1; i++) {
+                if(nums[i] >= nums[i+1]) {
+                    first = false;
+                    break;
+                }
             }
-            longest_k = max(longest_k, max(cur_increase / 2, min(prev_increase, cur_increase))); 
+
+            // check second subarray
+            for(int i = a + k; i < a + 2*k - 1; i++) {
+                if(nums[i] >= nums[i+1]) {
+                    second = false;
+                    break;
+                }
+            }
+
+            if(first && second) {
+                return true;
+            }
         }
-        return longest_k >= k;
+
+        return false;
     }
 };
