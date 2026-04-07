@@ -1,25 +1,16 @@
 class Solution {
 public:
     int uniquePaths(int m, int n) {
-        vector<vector<int>> grid(m, vector<int>(n));
+        std::vector<int> aboveRow(n, 1);
 
-        // last row
-        for(int j = 0; j < n; j++){
-            grid[m-1][j] = 1;
-        }
-
-        // last column
-        for(int i = 0; i < m; i++){
-            grid[i][n-1] = 1;
-        }
-
-        // fill rest of grid
-        for(int i = m-2; i >= 0; i--){
-            for(int j = n-2; j >= 0; j--){
-                grid[i][j] = grid[i+1][j] + grid[i][j+1];
+        for (int row = 1; row < m; row++) {
+            std::vector<int> currentRow(n, 1);
+            for (int col = 1; col < n; col++) {
+                currentRow[col] = currentRow[col - 1] + aboveRow[col];
             }
+            aboveRow = currentRow;
         }
 
-        return grid[0][0];
+        return aboveRow[n - 1];        
     }
 };
