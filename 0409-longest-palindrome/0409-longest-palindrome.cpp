@@ -1,30 +1,26 @@
 class Solution {
 public:
     int longestPalindrome(string s) {
-        vector<string>ans;
-        string left="";
-        string middle="";
+        int ans=0;
+        bool odd=false;
         unordered_map<char,int>mp;
-        for(char ch:s){
+        for(auto ch:s){
             mp[ch]++;
         }
         for(auto it:mp){
-            char ch=it.first;
             int freq=it.second;
+            int z=it.second/2;
+            ans+=(z*2);
 
-
-            //add pairs
-            while(freq>=2){
-                left+=ch;
-                freq-=2;
+            if(freq%2==1){
+                 odd=true;
             }
-            if(freq==1 && middle==""){
-                middle+=ch;
-            }
+           
         }
-        string right=left;
-        reverse(right.begin(),right.end());
-        string z=left+middle+right;
-        return (int)z.size();
+        if(odd){
+            ans+=1;
+        }
+        return ans;
+
     }
 };
