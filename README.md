@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Exwhyzed-del/Leetcode/tree/master/0055-jump-game) |
+| [0509-fibonacci-number](https://github.com/Exwhyzed-del/Leetcode/tree/master/0509-fibonacci-number) |
 | [1340-jump-game-v](https://github.com/Exwhyzed-del/Leetcode/tree/master/1340-jump-game-v) |
 ## Greedy
 |  |
@@ -39,4 +40,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/Exwhyzed-del/Leetcode/tree/master/2390-removing-stars-from-a-string) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Exwhyzed-del/Leetcode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Exwhyzed-del/Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Exwhyzed-del/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
