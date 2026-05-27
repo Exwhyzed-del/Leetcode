@@ -1,25 +1,14 @@
 class Solution {
 public:
     int numberOfSpecialChars(string word) {
+        unordered_set<char> st(word.begin(), word.end());
         int count = 0;
 
         for(char ch = 'a'; ch <= 'z'; ch++) {
             char upper = toupper(ch);
 
-            int lastLower = -1;
-            int firstUpper = -1;
-
-            for(int i = 0; i < word.size(); i++) {
-                if(word[i] == ch) {
-                    lastLower = i;
-                }
-
-                if(word[i] == upper && firstUpper == -1) {
-                    firstUpper = i;
-                }
-            }
-
-            if(lastLower != -1 && firstUpper != -1 && lastLower < firstUpper) {
+            if(st.count(ch) && st.count(upper) &&
+               word.rfind(ch) < word.find(upper)) {
                 count++;
             }
         }
