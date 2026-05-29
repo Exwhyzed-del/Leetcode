@@ -1,24 +1,19 @@
-#include <vector>
-#include <algorithm>
-#include <climits>
-using namespace std;
-
 class Solution {
 public:
     int minElement(vector<int>& nums) {
-        int min_val = INT_MAX;
-        
-        for (int num : nums) {
-            int current_sum = 0;
-            
-            while (num > 0) {
-                current_sum += num % 10;
-                num /= 10;
+        int mini = INT_MAX;
+
+        for(int val : nums) {
+            int cursum = 0;
+
+            while(val > 0) {
+                cursum += val % 10;
+                val /= 10;
             }
-            
-            min_val = min(min_val, current_sum);
+
+            mini = min(mini, cursum);
         }
-        
-        return min_val;
+
+        return mini;
     }
 };
