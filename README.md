@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Exwhyzed-del/Leetcode/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/Exwhyzed-del/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Exwhyzed-del/Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Exwhyzed-del/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Exwhyzed-del/Leetcode/tree/master/0078-subsets) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Exwhyzed-del/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Exwhyzed-del/Leetcode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Exwhyzed-del/Leetcode/tree/master/0118-pascals-triangle) |
 | [0509-fibonacci-number](https://github.com/Exwhyzed-del/Leetcode/tree/master/0509-fibonacci-number) |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Exwhyzed-del/Leetcode/tree/master/0031-next-permutation) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Exwhyzed-del/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
