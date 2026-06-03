@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Exwhyzed-del/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Exwhyzed-del/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Exwhyzed-del/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0287-find-the-duplicate-number](https://github.com/Exwhyzed-del/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1340-jump-game-v](https://github.com/Exwhyzed-del/Leetcode/tree/master/1340-jump-game-v) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Exwhyzed-del/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Exwhyzed-del/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -94,9 +95,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Exwhyzed-del/Leetcode/tree/master/0078-subsets) |
+| [0287-find-the-duplicate-number](https://github.com/Exwhyzed-del/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Exwhyzed-del/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [3161-block-placement-queries](https://github.com/Exwhyzed-del/Leetcode/tree/master/3161-block-placement-queries) |
 ## Binary Indexed Tree
 |  |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Exwhyzed-del/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Exwhyzed-del/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Exwhyzed-del/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/Exwhyzed-del/Leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
