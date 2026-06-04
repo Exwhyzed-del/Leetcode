@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/Exwhyzed-del/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2126-destroying-asteroids](https://github.com/Exwhyzed-del/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Exwhyzed-del/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2965-find-missing-and-repeated-values](https://github.com/Exwhyzed-del/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3161-block-placement-queries](https://github.com/Exwhyzed-del/Leetcode/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Exwhyzed-del/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Dynamic Programming
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Exwhyzed-del/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0409-longest-palindrome](https://github.com/Exwhyzed-del/Leetcode/tree/master/0409-longest-palindrome) |
+| [2965-find-missing-and-repeated-values](https://github.com/Exwhyzed-del/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Exwhyzed-del/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Exwhyzed-del/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 ## String
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Exwhyzed-del/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Exwhyzed-del/Leetcode/tree/master/0048-rotate-image) |
 | [0509-fibonacci-number](https://github.com/Exwhyzed-del/Leetcode/tree/master/0509-fibonacci-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/Exwhyzed-del/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Exwhyzed-del/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Recursion
 |  |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Exwhyzed-del/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Exwhyzed-del/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [2965-find-missing-and-repeated-values](https://github.com/Exwhyzed-del/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
