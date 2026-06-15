@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/Exwhyzed-del/Leetcode/tree/master/1340-jump-game-v) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Exwhyzed-del/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Exwhyzed-del/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Exwhyzed-del/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Exwhyzed-del/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Exwhyzed-del/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2965-find-missing-and-repeated-values](https://github.com/Exwhyzed-del/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Exwhyzed-del/Leetcode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/Exwhyzed-del/Leetcode/tree/master/0409-longest-palindrome) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Exwhyzed-del/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/Exwhyzed-del/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Exwhyzed-del/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Hash Table
