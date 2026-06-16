@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Exwhyzed-del/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Exwhyzed-del/Leetcode/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Exwhyzed-del/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/Exwhyzed-del/Leetcode/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/Exwhyzed-del/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Exwhyzed-del/Leetcode/tree/master/0493-reverse-pairs) |
 | [1340-jump-game-v](https://github.com/Exwhyzed-del/Leetcode/tree/master/1340-jump-game-v) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Exwhyzed-del/Leetcode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Exwhyzed-del/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Exwhyzed-del/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/Exwhyzed-del/Leetcode/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Exwhyzed-del/Leetcode/tree/master/0509-fibonacci-number) |
 | [1340-jump-game-v](https://github.com/Exwhyzed-del/Leetcode/tree/master/1340-jump-game-v) |
 ## Greedy
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Exwhyzed-del/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Exwhyzed-del/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Exwhyzed-del/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Exwhyzed-del/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
