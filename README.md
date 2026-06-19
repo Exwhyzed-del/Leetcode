@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Exwhyzed-del/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Exwhyzed-del/Leetcode/tree/master/0493-reverse-pairs) |
 | [1340-jump-game-v](https://github.com/Exwhyzed-del/Leetcode/tree/master/1340-jump-game-v) |
+| [1732-find-the-highest-altitude](https://github.com/Exwhyzed-del/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Exwhyzed-del/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Exwhyzed-del/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Exwhyzed-del/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -218,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Exwhyzed-del/Leetcode/tree/master/0322-coin-change) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/Exwhyzed-del/Leetcode/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
