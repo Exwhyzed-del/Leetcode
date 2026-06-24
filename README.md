@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/Exwhyzed-del/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Exwhyzed-del/Leetcode/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/Exwhyzed-del/Leetcode/tree/master/0258-add-digits) |
 | [2390-removing-stars-from-a-string](https://github.com/Exwhyzed-del/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Exwhyzed-del/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Math
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Exwhyzed-del/Leetcode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Exwhyzed-del/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Exwhyzed-del/Leetcode/tree/master/0062-unique-paths) |
+| [0258-add-digits](https://github.com/Exwhyzed-del/Leetcode/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/Exwhyzed-del/Leetcode/tree/master/0509-fibonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Exwhyzed-del/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2965-find-missing-and-repeated-values](https://github.com/Exwhyzed-del/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Exwhyzed-del/Leetcode/tree/master/1732-find-the-highest-altitude) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Exwhyzed-del/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
