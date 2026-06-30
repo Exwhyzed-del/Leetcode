@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Exwhyzed-del/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Exwhyzed-del/Leetcode/tree/master/0062-unique-paths) |
 | [0258-add-digits](https://github.com/Exwhyzed-del/Leetcode/tree/master/0258-add-digits) |
+| [0319-bulb-switcher](https://github.com/Exwhyzed-del/Leetcode/tree/master/0319-bulb-switcher) |
 | [0509-fibonacci-number](https://github.com/Exwhyzed-del/Leetcode/tree/master/0509-fibonacci-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Exwhyzed-del/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2965-find-missing-and-repeated-values](https://github.com/Exwhyzed-del/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -246,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Exwhyzed-del/Leetcode/tree/master/0258-add-digits) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Exwhyzed-del/Leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
