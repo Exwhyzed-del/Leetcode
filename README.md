@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Exwhyzed-del/Leetcode/tree/master/0062-unique-paths) |
 | [0258-add-digits](https://github.com/Exwhyzed-del/Leetcode/tree/master/0258-add-digits) |
 | [0279-perfect-squares](https://github.com/Exwhyzed-del/Leetcode/tree/master/0279-perfect-squares) |
+| [0292-nim-game](https://github.com/Exwhyzed-del/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Exwhyzed-del/Leetcode/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/Exwhyzed-del/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Exwhyzed-del/Leetcode/tree/master/0509-fibonacci-number) |
@@ -259,5 +260,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Exwhyzed-del/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Exwhyzed-del/Leetcode/tree/master/0319-bulb-switcher) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Exwhyzed-del/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
