@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Exwhyzed-del/Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Exwhyzed-del/Leetcode/tree/master/0031-next-permutation) |
 | [0040-combination-sum-ii](https://github.com/Exwhyzed-del/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Exwhyzed-del/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Exwhyzed-del/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Exwhyzed-del/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Exwhyzed-del/Leetcode/tree/master/0054-spiral-matrix) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Exwhyzed-del/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Exwhyzed-del/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Exwhyzed-del/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Exwhyzed-del/Leetcode/tree/master/0062-unique-paths) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Exwhyzed-del/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Exwhyzed-del/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Exwhyzed-del/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Exwhyzed-del/Leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Exwhyzed-del/Leetcode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Exwhyzed-del/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Exwhyzed-del/Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Exwhyzed-del/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Exwhyzed-del/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Exwhyzed-del/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Exwhyzed-del/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -290,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Exwhyzed-del/Leetcode/tree/master/3620-network-recovery-pathways) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Exwhyzed-del/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
