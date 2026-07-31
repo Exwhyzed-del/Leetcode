@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Exwhyzed-del/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Exwhyzed-del/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Exwhyzed-del/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Exwhyzed-del/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Exwhyzed-del/Leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Hash Table
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/Exwhyzed-del/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Exwhyzed-del/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/Exwhyzed-del/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Exwhyzed-del/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Exwhyzed-del/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Exwhyzed-del/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Exwhyzed-del/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Exwhyzed-del/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Exwhyzed-del/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Exwhyzed-del/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Exwhyzed-del/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3110-score-of-a-string](https://github.com/Exwhyzed-del/Leetcode/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Exwhyzed-del/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Exwhyzed-del/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Exwhyzed-del/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2126-destroying-asteroids](https://github.com/Exwhyzed-del/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Exwhyzed-del/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Exwhyzed-del/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Exwhyzed-del/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Exwhyzed-del/Leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Stack
@@ -280,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Exwhyzed-del/Leetcode/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Exwhyzed-del/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Exwhyzed-del/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Exwhyzed-del/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Exwhyzed-del/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Exwhyzed-del/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Exwhyzed-del/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
