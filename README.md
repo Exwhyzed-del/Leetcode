@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/Exwhyzed-del/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Exwhyzed-del/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/Exwhyzed-del/Leetcode/tree/master/3620-network-recovery-pathways) |
+| [3731-find-missing-elements](https://github.com/Exwhyzed-del/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Exwhyzed-del/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3838-weighted-word-mapping](https://github.com/Exwhyzed-del/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Exwhyzed-del/Leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Exwhyzed-del/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Exwhyzed-del/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Exwhyzed-del/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3731-find-missing-elements](https://github.com/Exwhyzed-del/Leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Exwhyzed-del/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Exwhyzed-del/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Exwhyzed-del/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Exwhyzed-del/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/Exwhyzed-del/Leetcode/tree/master/3731-find-missing-elements) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Exwhyzed-del/Leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Stack
 |  |
