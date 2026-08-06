@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Exwhyzed-del/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Exwhyzed-del/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Exwhyzed-del/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Exwhyzed-del/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Exwhyzed-del/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Exwhyzed-del/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Exwhyzed-del/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/Exwhyzed-del/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Exwhyzed-del/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Minimax
 |  |
 | ------- |
