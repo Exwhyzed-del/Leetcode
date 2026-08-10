@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Exwhyzed-del/Leetcode/tree/master/0877-stone-game) |
 | [1340-jump-game-v](https://github.com/Exwhyzed-del/Leetcode/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/Exwhyzed-del/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Exwhyzed-del/Leetcode/tree/master/1510-stone-game-iv) |
 | [3620-network-recovery-pathways](https://github.com/Exwhyzed-del/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Greedy
 |  |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Exwhyzed-del/Leetcode/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Exwhyzed-del/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Exwhyzed-del/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Exwhyzed-del/Leetcode/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Exwhyzed-del/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Exwhyzed-del/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Exwhyzed-del/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Exwhyzed-del/Leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Exwhyzed-del/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Exwhyzed-del/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Exwhyzed-del/Leetcode/tree/master/1510-stone-game-iv) |
 ## Graph Theory
 |  |
 | ------- |
@@ -413,13 +416,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/Exwhyzed-del/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Exwhyzed-del/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Exwhyzed-del/Leetcode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Exwhyzed-del/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Exwhyzed-del/Leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Exwhyzed-del/Leetcode/tree/master/1510-stone-game-iv) |
 ## Depth-First Search
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Exwhyzed-del/Leetcode/tree/master/3310-remove-methods-from-project) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Exwhyzed-del/Leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Exwhyzed-del/Leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
