@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Exwhyzed-del/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Exwhyzed-del/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Exwhyzed-del/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1872-stone-game-viii](https://github.com/Exwhyzed-del/Leetcode/tree/master/1872-stone-game-viii) |
 | [1920-build-array-from-permutation](https://github.com/Exwhyzed-del/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Exwhyzed-del/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Exwhyzed-del/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1340-jump-game-v](https://github.com/Exwhyzed-del/Leetcode/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/Exwhyzed-del/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Exwhyzed-del/Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Exwhyzed-del/Leetcode/tree/master/1872-stone-game-viii) |
 | [3620-network-recovery-pathways](https://github.com/Exwhyzed-del/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Greedy
 |  |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/Exwhyzed-del/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/Exwhyzed-del/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Exwhyzed-del/Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Exwhyzed-del/Leetcode/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Exwhyzed-del/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Exwhyzed-del/Leetcode/tree/master/2029-stone-game-ix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Exwhyzed-del/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -378,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Exwhyzed-del/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Exwhyzed-del/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/Exwhyzed-del/Leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/Exwhyzed-del/Leetcode/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Exwhyzed-del/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Exwhyzed-del/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Number Theory
@@ -400,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Exwhyzed-del/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Exwhyzed-del/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Exwhyzed-del/Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Exwhyzed-del/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Exwhyzed-del/Leetcode/tree/master/2029-stone-game-ix) |
 ## Graph Theory
 |  |
@@ -445,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Exwhyzed-del/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Exwhyzed-del/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Exwhyzed-del/Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Exwhyzed-del/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Exwhyzed-del/Leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -452,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Exwhyzed-del/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Exwhyzed-del/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Exwhyzed-del/Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Exwhyzed-del/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Exwhyzed-del/Leetcode/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
