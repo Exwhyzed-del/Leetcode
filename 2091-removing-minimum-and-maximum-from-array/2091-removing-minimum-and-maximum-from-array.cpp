@@ -18,10 +18,13 @@ public:
                 maxiIndex = i;
         }
 
+        // Remove both from left
         int left = max(miniIndex, maxiIndex) + 1;
 
+        // Remove both from right
         int right = n - min(miniIndex, maxiIndex);
 
+        // Remove one from left and one from right
         int both = min(miniIndex, maxiIndex) + 1
                  + n - max(miniIndex, maxiIndex);
 
