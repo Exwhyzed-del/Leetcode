@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Exwhyzed-del/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Exwhyzed-del/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Exwhyzed-del/Leetcode/tree/master/0062-unique-paths) |
+| [0115-distinct-subsequences](https://github.com/Exwhyzed-del/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/Exwhyzed-del/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Exwhyzed-del/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0279-perfect-squares](https://github.com/Exwhyzed-del/Leetcode/tree/master/0279-perfect-squares) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Exwhyzed-del/Leetcode/tree/master/0043-multiply-strings) |
+| [0115-distinct-subsequences](https://github.com/Exwhyzed-del/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0409-longest-palindrome](https://github.com/Exwhyzed-del/Leetcode/tree/master/0409-longest-palindrome) |
 | [0541-reverse-string-ii](https://github.com/Exwhyzed-del/Leetcode/tree/master/0541-reverse-string-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Exwhyzed-del/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
