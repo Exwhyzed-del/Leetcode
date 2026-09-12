@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3161-block-placement-queries](https://github.com/Exwhyzed-del/Leetcode/tree/master/3161-block-placement-queries) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Exwhyzed-del/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Exwhyzed-del/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Exwhyzed-del/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Exwhyzed-del/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Exwhyzed-del/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Exwhyzed-del/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Exwhyzed-del/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Exwhyzed-del/Leetcode/tree/master/1510-stone-game-iv) |
 | [1872-stone-game-viii](https://github.com/Exwhyzed-del/Leetcode/tree/master/1872-stone-game-viii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Exwhyzed-del/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3620-network-recovery-pathways](https://github.com/Exwhyzed-del/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Greedy
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/Exwhyzed-del/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Exwhyzed-del/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Exwhyzed-del/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Exwhyzed-del/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3536-maximum-product-of-two-digits](https://github.com/Exwhyzed-del/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Exwhyzed-del/Leetcode/tree/master/3731-find-missing-elements) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Exwhyzed-del/Leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Exwhyzed-del/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [3161-block-placement-queries](https://github.com/Exwhyzed-del/Leetcode/tree/master/3161-block-placement-queries) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Exwhyzed-del/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Exwhyzed-del/Leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3620-network-recovery-pathways](https://github.com/Exwhyzed-del/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Binary Indexed Tree
 |  |
