@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Exwhyzed-del/Leetcode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/Exwhyzed-del/Leetcode/tree/master/0409-longest-palindrome) |
 | [1386-cinema-seat-allocation](https://github.com/Exwhyzed-del/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Exwhyzed-del/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2029-stone-game-ix](https://github.com/Exwhyzed-del/Leetcode/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Exwhyzed-del/Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Exwhyzed-del/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Exwhyzed-del/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Exwhyzed-del/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Exwhyzed-del/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Exwhyzed-del/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Exwhyzed-del/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Exwhyzed-del/Leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Exwhyzed-del/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Exwhyzed-del/Leetcode/tree/master/0409-longest-palindrome) |
 | [0541-reverse-string-ii](https://github.com/Exwhyzed-del/Leetcode/tree/master/0541-reverse-string-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Exwhyzed-del/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Exwhyzed-del/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Exwhyzed-del/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Exwhyzed-del/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2390-removing-stars-from-a-string](https://github.com/Exwhyzed-del/Leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Exwhyzed-del/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1340-jump-game-v](https://github.com/Exwhyzed-del/Leetcode/tree/master/1340-jump-game-v) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Exwhyzed-del/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Exwhyzed-del/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2126-destroying-asteroids](https://github.com/Exwhyzed-del/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Exwhyzed-del/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Exwhyzed-del/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
