@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/Exwhyzed-del/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Exwhyzed-del/Leetcode/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Exwhyzed-del/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/Exwhyzed-del/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Exwhyzed-del/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Exwhyzed-del/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Exwhyzed-del/Leetcode/tree/master/3838-weighted-word-mapping) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Exwhyzed-del/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2390-removing-stars-from-a-string](https://github.com/Exwhyzed-del/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Exwhyzed-del/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Exwhyzed-del/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Exwhyzed-del/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Exwhyzed-del/Leetcode/tree/master/3838-weighted-word-mapping) |
 ## Math
