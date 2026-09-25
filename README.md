@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Exwhyzed-del/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Exwhyzed-del/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Exwhyzed-del/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1096-brace-expansion-ii](https://github.com/Exwhyzed-del/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Exwhyzed-del/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Exwhyzed-del/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Exwhyzed-del/Leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Exwhyzed-del/Leetcode/tree/master/0409-longest-palindrome) |
 | [0541-reverse-string-ii](https://github.com/Exwhyzed-del/Leetcode/tree/master/0541-reverse-string-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Exwhyzed-del/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1096-brace-expansion-ii](https://github.com/Exwhyzed-del/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Exwhyzed-del/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Exwhyzed-del/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Exwhyzed-del/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Exwhyzed-del/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Exwhyzed-del/Leetcode/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Exwhyzed-del/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/Exwhyzed-del/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1340-jump-game-v](https://github.com/Exwhyzed-del/Leetcode/tree/master/1340-jump-game-v) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Exwhyzed-del/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Exwhyzed-del/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Exwhyzed-del/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Exwhyzed-del/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Exwhyzed-del/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1096-brace-expansion-ii](https://github.com/Exwhyzed-del/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/Exwhyzed-del/Leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -296,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Exwhyzed-del/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Exwhyzed-del/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Exwhyzed-del/Leetcode/tree/master/0090-subsets-ii) |
+| [1096-brace-expansion-ii](https://github.com/Exwhyzed-del/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Exwhyzed-del/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
 |  |
@@ -426,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/Exwhyzed-del/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Exwhyzed-del/Leetcode/tree/master/0322-coin-change) |
+| [1096-brace-expansion-ii](https://github.com/Exwhyzed-del/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/Exwhyzed-del/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Exwhyzed-del/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
