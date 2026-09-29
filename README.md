@@ -555,4 +555,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Exwhyzed-del/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Exwhyzed-del/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Exwhyzed-del/Leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Exwhyzed-del/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
