@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/Exwhyzed-del/Leetcode/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Exwhyzed-del/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Exwhyzed-del/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Exwhyzed-del/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/Exwhyzed-del/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Exwhyzed-del/Leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Dynamic Programming
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/Exwhyzed-del/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Exwhyzed-del/Leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/Exwhyzed-del/Leetcode/tree/master/3731-find-missing-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/Exwhyzed-del/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/Exwhyzed-del/Leetcode/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Stack
 |  |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/Exwhyzed-del/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Exwhyzed-del/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Exwhyzed-del/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Exwhyzed-del/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -561,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/Exwhyzed-del/Leetcode/tree/master/2367-number-of-arithmetic-triplets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Exwhyzed-del/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Exwhyzed-del/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3886-sum-of-sortable-integers](https://github.com/Exwhyzed-del/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Minimax
 |  |
 | ------- |
