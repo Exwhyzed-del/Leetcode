@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Exwhyzed-del/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Exwhyzed-del/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/Exwhyzed-del/Leetcode/tree/master/3838-weighted-word-mapping) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Exwhyzed-del/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Sorting
 |  |
 | ------- |
