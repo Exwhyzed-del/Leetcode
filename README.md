@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Exwhyzed-del/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Exwhyzed-del/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Exwhyzed-del/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1254-number-of-closed-islands](https://github.com/Exwhyzed-del/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1340-jump-game-v](https://github.com/Exwhyzed-del/Leetcode/tree/master/1340-jump-game-v) |
 | [1386-cinema-seat-allocation](https://github.com/Exwhyzed-del/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Exwhyzed-del/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Exwhyzed-del/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Exwhyzed-del/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0835-image-overlap](https://github.com/Exwhyzed-del/Leetcode/tree/master/0835-image-overlap) |
+| [1254-number-of-closed-islands](https://github.com/Exwhyzed-del/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2965-find-missing-and-repeated-values](https://github.com/Exwhyzed-del/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Exwhyzed-del/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Exwhyzed-del/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1254-number-of-closed-islands](https://github.com/Exwhyzed-del/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Exwhyzed-del/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Linked List
 |  |
@@ -488,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Exwhyzed-del/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/Exwhyzed-del/Leetcode/tree/master/0322-coin-change) |
 | [1096-brace-expansion-ii](https://github.com/Exwhyzed-del/Leetcode/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Exwhyzed-del/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Exwhyzed-del/Leetcode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Exwhyzed-del/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
@@ -590,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/Exwhyzed-del/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [3310-remove-methods-from-project](https://github.com/Exwhyzed-del/Leetcode/tree/master/3310-remove-methods-from-project) |
 ## Nim Game
 |  |
